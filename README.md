@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=0:0a2843,100:0b5191&height=150&section=header&text=JJuuuunn&fontSize=90&fontColor=009999)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=0:0a2843,100:0b5191&height=130&section=header&text=JJuuuunn&fontSize=90&fontColor=009999)
 
 <div align="center">
   
