@@ -21,6 +21,9 @@
     <img src="https://img.shields.io/badge/mybatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white">
     <img src="https://img.shields.io/badge/querydsl-4479A1?style=for-the-badge&logo=mybatis&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mariadb-4479A1?style=for-the-badge&logo=mariadb&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-4479A1?style=for-the-badge&logo=reids&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-4479A1?style=for-the-badge&logo=docker&logoColor=white">
   </p>
 
 <!--
