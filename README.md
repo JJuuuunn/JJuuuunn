@@ -14,7 +14,16 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjuuuunn)](https://solved.ac/jjuuuunn/)
   
 
-</div> 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://ysjun96.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-EB531F?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    <a href="mailto:didtdjwns111@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+
 
  
 <div>
